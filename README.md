@@ -1,2 +1,2 @@
 # Python_Learning
-Python Bootcamp
+Learning about fundamentals of Python
